@@ -6,7 +6,6 @@ NemO is a bot built for you, to welcome new users to your servers mainly. Custom
 
 [![GitHub issues](https://img.shields.io/github/issues/Welcome-Bot/welcome-bot)](https://github.com/Jethalal1234/NemO-Discord-Bot/issues)
 [![Discord Chat](https://img.shields.io/discord/902777504316665906?color=7289da&label=discord&logo=discord&logoColor=white)][discord]
-[![dependencies](https://status.david-dm.org/gh/Welcome-Bot/welcome-bot.svg)](https://github.com/Jethalal1234/NemO-Discord-Bot/issues)
 [![Crowdin](https://badges.crowdin.net/welcome-bot/localized.svg)](https://crowdin.com/project/welcome-bot)
 [![CI](https://github.com/Welcome-Bot/welcome-bot/actions/workflows/ci.yml/badge.svg?branch=development&event=push)](https://github.com/Welcome-Bot/welcome-bot/actions/workflows/ci.yml)
 ![Codelines](https://img.shields.io/tokei/lines/github/Welcome-Bot/welcome-bot)
