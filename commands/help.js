@@ -19,8 +19,7 @@ pages[0] = new MessageEmbed()
 commands
 Use Buttons \`Back\` and \`Next\` to change pages.
             
-Privacy Policy
-By using NemO you agree to [Privacy Policy](https://praharjokhakar.gitbook.io/product-docs/policies/privacy-policy) provided by the developer. 
+**Copyright Team NemO 2020-22/ All Rights Reserved** Made by a open source project **NemO**
             
 Support
 [Contact us](https://discord.gg/hvVHaeu4n9) to talk to our support team if you're having trouble**`).setColor("RED")
