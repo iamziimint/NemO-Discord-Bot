@@ -13,7 +13,7 @@ module.exports = {
         let embed = new MessageEmbed()
         .setImage(avatar)
         .setColor("RED")
-        .setTimestamp()
+        .setTimestamp("Copyright NemO 2020-22/ Rights Reserved")
       message.channel.send({ embeds : [embed]}).catch(err => log.send(`\`\`\`fix\nGUILD - ${message.guild.name} ERROR - missing permission\`\`\``));
     }
 }
